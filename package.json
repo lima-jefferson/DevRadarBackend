@@ -1,0 +1,19 @@
+{
+  "name": "devradar",
+  "version": "1.0.0",
+  "description": "Semana Omnistack #10",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9",
+    "node": "^13.6.0",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  }
+}
